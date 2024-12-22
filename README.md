@@ -1,4 +1,4 @@
-## How to execute (.py) on Linux
+<img width="568" alt="image_2024_12_11T02_30_43_547Z" src="https://github.com/user-attachments/assets/3424c19e-7fd3-49cf-bcda-36b646efbaaf" />## How to execute (.py) on Linux
 ```console
 # to install package
 python3 -m pip install --upgrade pip setuptools wheel
@@ -42,6 +42,8 @@ notepad multi_ssh_test.bat
   - Located at /etc/sysctl.conf or in the /etc/sysctl.d/ directory
     ```console
     net.core.somaxconn = 1024
-    ```  
+    ```
 - The CPU resources
   - For example, if each SSH connection consumes about 1 - 3 % of the CPU, 50 - 60 of concurrent ssh connections is its limits. Observations using top have shown that the impact on CPU resources is significant
+    <img width="568" alt="image_2024_12_11T02_30_43_547Z" src="https://github.com/user-attachments/assets/ed449cc6-f92d-4cd9-b92a-e6494a10c0a6" />
+
