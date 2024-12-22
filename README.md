@@ -1,4 +1,4 @@
-<img width="568" alt="image_2024_12_11T02_30_43_547Z" src="https://github.com/user-attachments/assets/3424c19e-7fd3-49cf-bcda-36b646efbaaf" />## How to execute (.py) on Linux
+## How to execute (.py) on Linux
 ```console
 # to install package
 python3 -m pip install --upgrade pip setuptools wheel
